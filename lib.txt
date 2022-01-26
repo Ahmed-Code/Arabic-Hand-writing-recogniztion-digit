@@ -4,4 +4,4 @@ sklearn
 pandas
 numpy
 pywin32
-tkinter
+tk
