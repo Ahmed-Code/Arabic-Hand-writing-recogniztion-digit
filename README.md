@@ -23,6 +23,6 @@ this program to recognize the handwriting arabic digit , we use Support Vector M
 <a href = "https://www.linkedin.com/in/mateeb-alharbi-5a55b21a5/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 ### *Rayyan Fattah
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://www.linkedin.com/in/rayan-fatta-979430168/"/></a>
+<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 ### *Abdullah Alhothli
