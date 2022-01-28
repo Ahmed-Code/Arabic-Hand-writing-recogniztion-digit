@@ -6,9 +6,14 @@ this program to recognize the handwriting arabic digit , we use Support Vector M
 # ScreanShot
 ![img](https://user-images.githubusercontent.com/87250282/151166750-038970ca-d5c0-417c-a47c-412ecbf95063.png)
 
-# Installation
+# windows Installation
 * git clone https://github.com/AlwafiDev/Arabic-Hand-writing-recogniztion-digit.git
 * cd Hand-writing-recogniztion-digit
-* pip install lib.txt
+* pip install lib-win.txt
+
+# Mac Installation
+* git clone https://github.com/AlwafiDev/Arabic-Hand-writing-recogniztion-digit.git
+* cd Hand-writing-recogniztion-digit
+* pip install lib-mac.txt
 
 ## Video for installation
