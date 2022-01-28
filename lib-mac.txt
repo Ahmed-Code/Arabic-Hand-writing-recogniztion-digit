@@ -1,6 +1,0 @@
-opencv-python
-matplotlib
-sklearn
-pandas
-numpy
-tk
