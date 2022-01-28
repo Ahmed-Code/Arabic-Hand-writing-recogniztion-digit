@@ -12,3 +12,7 @@ this program to recognize the handwriting arabic digit , we use Support Vector M
 * pip install lib-win.txt
 
 # Students
+Ahmed Alwafi
+Mateeb Alharbi
+Rayyan Fattah
+Abdullah Alhothli
