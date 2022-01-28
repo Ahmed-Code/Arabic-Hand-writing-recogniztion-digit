@@ -11,9 +11,4 @@ this program to recognize the handwriting arabic digit , we use Support Vector M
 * cd Hand-writing-recogniztion-digit
 * pip install lib-win.txt
 
-# Mac Installation
-* git clone https://github.com/AlwafiDev/Arabic-Hand-writing-recogniztion-digit.git
-* cd Hand-writing-recogniztion-digit
-* pip install lib-mac.txt
-
-## Video for installation
+# Students
