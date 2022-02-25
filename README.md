@@ -16,7 +16,7 @@ this program to recognize the handwriting arabic digit , we use Support Vector M
 <a href = "https://github.com/AlwafiDev"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
 <a href = "https://www.linkedin.com/in/ahmed-alwafi-9b990021a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/channel/UClBTiUJc-LtNChDXZlVWH3g"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://twitter.com/alwafi_nr"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/alwafi__nr"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 ### *Mateeb Alharbi
 <a href = "https://github.com/Mateeb11"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
