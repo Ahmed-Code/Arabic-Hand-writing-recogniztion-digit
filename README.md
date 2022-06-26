@@ -7,13 +7,13 @@ this program to recognize the handwriting arabic digit , we use Support Vector M
 ![img](https://user-images.githubusercontent.com/87250282/151166750-038970ca-d5c0-417c-a47c-412ecbf95063.png)
 
 # windows Installation
-* git clone https://github.com/AlwafiDev/Arabic-Hand-writing-recogniztion-digit.git
+* git clone https://github.com/Ahmed-Code/Arabic-Hand-writing-recogniztion-digit.git
 * cd Hand-writing-recogniztion-digit
 * pip install lib-win.txt
 
 # Students
 ### *Ahmed Alwafi
-<a href = "https://github.com/AlwafiDev"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
+<a href = "https://github.com/Ahmed-Code"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
 <a href = "https://www.linkedin.com/in/ahmed-alwafi-9b990021a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 ### *Mateeb Alharbi
